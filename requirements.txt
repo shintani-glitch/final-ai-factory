@@ -1,0 +1,7 @@
+gspread
+google-auth-oauthlib
+google-generativeai
+requests
+pytz
+tweepy
+python-amazon-paapi
